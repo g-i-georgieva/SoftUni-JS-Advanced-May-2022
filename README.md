@@ -1,6 +1,6 @@
 # SoftUni-JS-Advanced-May-2022
 
-![Advanced](https://user-images.githubusercontent.com/100354136/176902864-f859099f-1758-4433-8371-4bd942918137.jpg)
+![Advanced](https://user-images.githubusercontent.com/100354136/176903174-437d848b-167b-44e9-9e06-00e0dc7b6a93.jpg)
 
 
 The JavaScript Advanced course extends the skills gained in the JavaScript Fundamentals course with more sophisticated concepts and principles of Functional Programming (FP) and Object-Oriented Programming (PLO) with JavaScript, as well as using DOM to process elements in a web page. The course is based on state-of-the-art standards and JS technologies (modern JavaScript is studied with ES2017).
